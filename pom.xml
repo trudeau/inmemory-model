@@ -20,7 +20,7 @@
   <parent>
     <groupId>org.99soft.trudeau</groupId>
     <artifactId>trudeau-parent</artifactId>
-    <version>1-SNAPSHOT</version>
+    <version>1</version>
   </parent>
 
   <artifactId>org.99soft.trudeau.inmemory</artifactId>
@@ -28,7 +28,7 @@
 
   <name>Trudeau - inmemory-model</name>
   <description>Small shared utilities set.</description>
-  <url>https://github.com/trudeau/inmemory-model</url>
+  <url>http://trudeau.github.io/inmemory-model</url>
 
   <scm>
     <url>http://github.com/trudeau/inmemory-model</url>
@@ -43,6 +43,12 @@
     <system>Trevis CI</system>
     <url>https://travis-ci.org/trudeau/inmemory-model/</url>
   </ciManagement>
+  <distributionManagement>
+    <site>
+      <id>github</id>
+      <url>gitsite:git@github.com/trudeau/inmemory-model.git</url>
+    </site>
+  </distributionManagement>
 
   <dependencies>
     <dependency>
