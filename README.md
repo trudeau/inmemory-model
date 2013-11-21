@@ -1,4 +1,4 @@
 inmemory-model
 ==============
 
-In-Memory Graph representation models
+In-memory based Graph data-structures implementations.
