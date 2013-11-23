@@ -27,7 +27,7 @@
   <version>0.0.1-SNAPSHOT</version>
 
   <name>Trudeau - In-Memory Model</name>
-  <description>Small shared utilities set.</description>
+  <description>In-memory based Graph data-structures implementations.</description>
   <url>http://trudeau.github.io/inmemory-model</url>
 
   <scm>
